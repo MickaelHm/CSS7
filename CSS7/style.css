@@ -1,0 +1,56 @@
+﻿.case1 { /*Vert clair*/
+    width: 1020px;
+    height: 48px;
+    background-color: #2ECC71;
+}
+.case2 {/*Bleu foncé*/
+    width: 256px;
+    height: 48px;
+    background-color: #2980B9;
+    margin-left: 1020px;
+    margin-top: -48px;
+}
+/*widht total 1276px*/
+.case3 { /*Rouge*/
+    width: 425px;
+    height: 148px;
+    background-color: #E74C3C;
+}
+.case4 {/*orange foncé*/
+    width: 427px;
+    height: 74px;
+    background-color: #E67E22;
+    margin-left: 425px;
+    margin-top: -148px;
+}
+.case5 {/*orange clair*/
+    width: 282px;
+    height: 74px;
+    background-color: #F39C12;
+    margin-left: 425px;
+}
+.case6 { /*gris bleu*/
+    width: 424px;
+    height: 74px;
+    background-color: #95A5A6;
+    margin-left: 852px;
+    margin-top: -148px;
+}
+.case7 { /*Vert bleu*/
+    width: 282px;
+    height: 74px;
+    background-color: #16A085;
+    margin-left: 707px;
+}
+.case8 { /*Marron*/
+    width: 287px;
+    height: 74px;
+    background-color: #D35400;
+    margin-left: 989px;
+    margin-top: -74px;
+}
+.case9 { /*Bleu Marine*/
+    width: 1276px;
+    height: 186px;
+    background-color: #2C3E50;
+}
